@@ -1,6 +1,3 @@
-# Homework 1
-# YI CHEN KUO
+## Homework 1
 
-Testing
-
-test
+### YI CHEN KUO
